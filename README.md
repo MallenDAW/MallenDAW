@@ -1,9 +1,8 @@
-#  👋 Hola, soy carlos y este es mi GitHub
+#  👋 Hola, soy Carlos y este es mi GitHub
 
-## - Prácticas : https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS
-## - Práctica Tarea continua: https://github.com/MallenDAW/DWECMallen/branches
-## - Ejercicios: https://github.com/MallenDAW/DWECMallen/tree/main/00_EJERCICIOS
-- 📫 How to reach me ...
+### - [PRÁCTICAS](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS)
+### - [TAREA CONTINUA](https://github.com/MallenDAW/DWECMallen/branches)
+### - [EJERCICIOS](https://github.com/MallenDAW/DWECMallen/tree/main/00_EJERCICIOS)
 
 <!---
 MallenDAW/MallenDAW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
