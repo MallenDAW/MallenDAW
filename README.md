@@ -25,7 +25,7 @@
 || <ul><li> - [x] [Ejercicio 10](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/01_Basicos/10_Ejer10.html)</li></ul> |||
 
 
-
+<!--
 <table>
   <thead>
     <tr>
@@ -62,6 +62,7 @@
     </tr>
   </tbody>
 </table>
+-->
 <!---
 MallenDAW/MallenDAW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
