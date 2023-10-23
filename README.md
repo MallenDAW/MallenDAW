@@ -7,7 +7,8 @@
   - ##### [Rama 1](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua1/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
   - ##### [Rama 2](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua2/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
   - ##### [Rama 3](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua3/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
-  - ##### [Rama 4](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua3/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
+  - ##### [Rama 4](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua4/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
+  - ##### [Rama 5](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua5/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
 # PROGRESO DE EJERCICIOS Y TAREAS
 <!--
 | [Prácticas](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS) | [**Ejercicios Básicos.**](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosBasicos) | [**Tarea Continua** (Branches)](https://github.com/SanRup/dwec/branches/yours) |
@@ -47,7 +48,7 @@
     </tr>
     <tr>
       <td>Tarea continua</td>
-       <td>En apartado 5</td> 
+       <td>En apartado 6</td> 
       <td>Para ver el progreso de 1 ejercicio a través de 7 ramas</td>
     </tr>
     <tr>
