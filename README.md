@@ -9,7 +9,7 @@
   - ##### [Rama 3](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua3/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
   - ##### [Rama 4](https://github.com/MallenDAW/DWECMallen/blob/TareaContinua3/01_UT1/02_Variables/EjerciciosBranch/01_Lista.html)   
 # PROGRESO DE EJERCICIOS Y TAREAS
-
+<!--
 | [Prácticas](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS) | [**Ejercicios Básicos.**](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosBasicos) | [**Tarea Continua** (Branches)](https://github.com/SanRup/dwec/branches/yours) |
 |:---| :---         |     :---      |
 |<ul><li> [x] [101](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS/101CMS) </li></ul> | <ul><li> - [x] [Ejercicio 1](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos01.html)</li></ul> | <ul><li> - [x] [Tarea Continua 1](https://github.com/SanRup/dwec/tree/tareaContinua1/Pr%C3%A1cticas/TareaContinua)</li></ul> | 
@@ -24,7 +24,7 @@
 || <ul><li> - [x] [Ejercicio 9](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos09.html)</li></ul> ||
 || <ul><li> - [x] [Ejercicio 10](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos10.html)</li></ul> ||
 
-
+-->
 
 <table>
   <thead>
