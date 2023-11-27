@@ -3,6 +3,7 @@
 - #### [PRÁCTICAS](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS)
 - #### [EJERCICIOS](https://github.com/MallenDAW/DWECMallen/tree/main/00_EJERCICIOS)
 - #### [LA PELICULERA](https://github.com/MallenDAW/DWECMallen/blob/main/01_UT1/04_Estructuras_Control/Ejercicios/01_Ejer1_LaPeliculera.html)
+- #### [BUSCAMINAS](https://github.com/MallenDAW/DWECMallen/blob/main/00_PRACTICAS/300CMS/iniciarBuscaminas.js)
 # PROGRESO DE EJERCICIOS Y TAREAS
 
 | [Prácticas](https://github.com/MallenDAW/DWECMallen/tree/main/00_PRACTICAS) | [**Ejercicios Básicos.**](https://github.com/MallenDAW/DWECMallen/tree/main/00_EJERCICIOS/01_Basicos) | [**Tarea Continua** (Branches)](https://github.com/MallenDAW/DWECMallen/branches) | [Arrays y cadenas](https://github.com/MallenDAW/DWECMallen/tree/main/00_EJERCICIOS/02_Arrays_Cadenas) | Otros ejercicios|[EXAMEN](https://github.com/MallenDAW/DWECMallen/tree/main/00_EXAMEN_1EVA)|
