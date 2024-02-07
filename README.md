@@ -76,7 +76,11 @@
  - [X] [Papelera](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/Papelera/papelera.js)
  - [X] [Color y raton](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/01_color_raton.html)
  - [x] [Contador clicks](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/02_contador_click.html)  
-  
+
+> # API FETCH
+
+  - [X] [Usuarios](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/05_API1.html)
+  - [X] [Pokemon](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/06_pokeAPI.html)
 
 > # EXAMENES
 
