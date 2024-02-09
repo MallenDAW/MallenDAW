@@ -51,10 +51,11 @@
 
 
 
-> # PROTOTYPE
+> # PROTOTYPE / OBJETOS
 
   - [X] [Televisiones](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/05_ObjetosPrototipo/01_ejer1.html)
-  - [X] [Productos](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/05_ObjetosPrototipo/02_ejer2.html) 
+  - [X] [Productos](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/05_ObjetosPrototipo/02_ejer2.html)
+  - [X] [Fecha - Dias que faltan](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/04_Fechas/01_ejer1.html)
 
 > # OTROS EJERCICIOS
 
@@ -64,8 +65,24 @@
   - [X] [Palabra codificada](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/06_SimulacroEXAMEN/index.html)
 
 
+> # BOM
+
+ - [X] [Ventanas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/02_tiempo.html)
+ - [X] [Páginas Visitadas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/03_screen_histy_locat.html)
+ - [X] [Manipular Ventanas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/Ejercicios/01_manipularWindow.html)
+ - [X] [Segundos Reloj](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/Ejercicios/02_segundosReloj.html)
+ - [X] [Ejercicio Ventanas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/Ejercicios/03_ejer3.html)
+ - [X] [Manejadores](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/01_BOM/Ejercicios/04_ejer4.html)
+
+> # PROGRAMACION FUNCIONAL
+
+  - [x] [Notas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/02_Prog_Funcional/01_ejemp1.html)
+
 > # DOM 
 
+  
+  - [x] [Append Child](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/03_Manipular_DOM_child/ejer_appendChild/index.html)
+  - [x] [Sibling](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/03_Manipular_DOM_child/ejer_sibiling/01_first_lastChild.html)
   - [x] [Lista compra](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/02_Lista_compra.html)
   - [x] [Act 2.1](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/03_Act2.1.html)
   - [x] [Act 2.2](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/04_Act2.2.html)
@@ -75,10 +92,36 @@
 
  - [X] [Papelera](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/Papelera/papelera.js)
  - [X] [Color y raton](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/01_color_raton.html)
- - [x] [Contador clicks](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/02_contador_click.html)  
+ - [x] [Contador clicks](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/02_contador_click.html)
+ - [X] [Añadir Select](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/05_ejer_select.html)  
+
+
+> # FORMULARIOS
+
+  - [X] [Submit](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/04_formularios/02_submit.html)
+  - [x] [Mail-to](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/04_formularios/03_submit_reset.html)
+  - [x] [Validacion JS](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/04_formularios/04_validacionCodigo.html)
+  - [x] [Validacion HTML](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/04_formularios/05_validacionHTML.html)
+  - [x] [Validacion API](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/04_formularios/06_validacionAPI.html)
+
+> # COOKIES
+
+  - [x] [botones](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/10_cookies/01_cookiesBotones.html)
+
+> # WEBSTORAGE
+
+  - [x] [Storage](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/05_cookies_storage/02_storage.html)
+  - [x] [Saludar Usuario](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/05_cookies_storage/03_web_Storage.html)
+
+> # PROMESAS / ASYNC
+
+  - [x] [Promesas](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/02_ejemploPromesa.html)
+  - [x] [Botones Promesas](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/11_Async_Promesas/01_boton_promesas.html)
 
 > # API FETCH
 
+
+  - [X] [API fecth](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/04_Api_Fetch.html)
   - [X] [Usuarios](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/05_API1.html)
   - [X] [Pokemon](https://github.com/MallenDAW/DWECMallen/blob/main/03_UT3/06_async_promises_APIfetch/06_pokeAPI.html)
 
