@@ -86,15 +86,18 @@
   - [x] [Lista compra](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/02_Lista_compra.html)
   - [x] [Act 2.1](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/03_Act2.1.html)
   - [x] [Act 2.2](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/04_Act2.2.html)
- 
+    - Branches   
+      - [x] [Rama1](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/BranchDOM1/01_ejercicio1.html)
+      - [x] [Rama2](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/BranchDOM1/02_ejercicio2.html)
  
 > # EVENTOS
 
  - [X] [Papelera](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/Papelera/papelera.js)
  - [X] [Color y raton](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/01_color_raton.html)
  - [x] [Contador clicks](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/02_contador_click.html)
- - [X] [Añadir Select](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/05_ejer_select.html)  
-
+ - [x] [Contador clickderecho](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/07_Eventos/Ejercicio%20DOM/01_contador.html)
+ - [X] [Añadir Select](https://github.com/MallenDAW/DWECMallen/blob/main/00_EJERCICIOS/09_EjerciciosDOM/05_ejer_select.html)
+   
 
 > # FORMULARIOS
 
